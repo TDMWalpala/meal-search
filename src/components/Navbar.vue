@@ -8,7 +8,7 @@
         <router-link  :to="{name:'byLetter'}" class="h-full px-3 py-3 rounded hover:bg-purple-400">
           Meals By Letter
         </router-link>
-        <router-link :to="{name:'byIngredient'}" class="h-full px-3 py-3 rounded hover:bg-purple-400">
+        <router-link :to="{name:'ingredients'}" class="h-full px-3 py-3 rounded hover:bg-purple-400">
           Meals By ingredients
         </router-link>
       </div>
