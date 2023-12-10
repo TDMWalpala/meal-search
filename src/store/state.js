@@ -3,5 +3,7 @@ export default {
     //     loading:false,
     //     data: []
     // }
-    searchMeals:[]
+    searchMeals:[],
+    searchByLetter:[],
+    searchByIngredients:[]
 }

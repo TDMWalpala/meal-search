@@ -14,6 +14,7 @@
 </template>
 
 <script setup>
+import YouTubButton from '../components/YouTubButton.vue'
 const {meal} = defineProps({
     meal:{
         required: true,
